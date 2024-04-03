@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/http":{"owner":"vagrant","group":"vagrant","guestpath":"/srv/http","hostpath":"/home/hnariman/VM/custom-vagrant-apache/http","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/hnariman/VM/custom-vagrant-apache","disabled":false,"__vagrantfile":true}}}
